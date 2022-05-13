@@ -46,7 +46,9 @@ Backend
     Lancer le serveur en ouvrant un terminal sur le backend et tapant la commande 'nodemon server.js' .
     Le serveur backend tourne sur le port 3001.
     
-    DATABASE
+    
+    
+DATABASE
 
     Se rendre au dossier backend, installer MySQL et se connecter à MySQL.
     Créez une base de donnée dans MySQL nommée 'groupomania'.
