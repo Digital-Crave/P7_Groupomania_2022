@@ -83,6 +83,7 @@ export default {
             }
         }, 
         deleteImage() {
+            this.file = null;
             this.newImage = "";
             this.isHidden = true;
         },
